@@ -142,6 +142,10 @@ disable_root: true
 
 ```
 
+4. Click **Add Droplet** in the bottom right.
+
+the droplet has now been created successfully.
+
 
 
 
